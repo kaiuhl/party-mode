@@ -1,0 +1,11 @@
+{
+  "name": "party-mode",
+  "version": "1.0.0",
+  "description": "Party on almost* any webpage! *Content-Security-Policy is a party pooper",
+  "main": "party.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle Meyer",
+  "license": "MIT"
+}
